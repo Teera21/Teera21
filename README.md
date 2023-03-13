@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84917837/224555304-24471137-80d1-4cfa-9ced-f8c5339d0963.jpg">
 
 
-- 🔭 I’m currently working on **Life Cycle AI**
+- 🔭 I was an intern research assistant at NECTEC.
 
 - 🌱 I’m currently learning **Pytorch**
 
