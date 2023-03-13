@@ -11,9 +11,9 @@
 
 - 🔭 I was an intern research assistant at NECTEC.
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 My Resume   <a href="https://drive.google.com/file/d/1B2z6JV7Y-2fGYE87blr_lego4lPRJ-nP/view?usp=sharing">Here</a>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1B2z6JV7Y-2fGYE87blr_lego4lPRJ-nP/view?usp=sharing](https://drive.google.com/file/d/1B2z6JV7Y-2fGYE87blr_lego4lPRJ-nP/view?usp=sharing)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Teera21?tab=repositories">Here</a>
 
 - 💬 Ask me about **Tensorflow, MLops**
 
