@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Tensorflow, MLops**
 
-- 📫 How to reach me **Teerapong.Hanyong@gmail.com**
+- 📫 How to reach me **teerapong.hanyong@gmail.com**
 
 - ⚡ Fun fact **I think again.**
 
