@@ -1,6 +1,6 @@
 
 
-<img align="center" width="1000" height="400" src="https://user-images.githubusercontent.com/84917837/224557593-0835a1b9-27a4-4c07-9528-1079d7d79239.jpg"  >
+
 
 <h1 align="center"> 👋 Hi I'm Teerapong</h1>
 <h3 align="center">A passionate Machine Learning Engineering And Data Science</h3>
