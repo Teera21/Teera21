@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Machine Learning Engineering And Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teera21&label=Profile%20views&color=0e75b6&style=flat" alt="teera21" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84917837/224555304-24471137-80d1-4cfa-9ced-f8c5339d0963.jpg">
+<img align="right" alt="Coding" width="400" height="500" src="https://user-images.githubusercontent.com/84917837/224555304-24471137-80d1-4cfa-9ced-f8c5339d0963.jpg">
 
 
 - 🔭 I was an intern research assistant at NECTEC.
